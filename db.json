@@ -30,6 +30,26 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Lucas",
+      "lastName": "Bezerra",
+      "id": 4
+    },
+    {
+      "firstName": "Dara",
+      "lastName": "Valenzuela",
+      "id": 6
+    },
+    {
+      "firstName": "Olga",
+      "lastName": "Valenzuela",
+      "id": 7
+    },
+    {
+      "firstName": "Rubens ",
+      "lastName": "Paiva",
+      "id": 8
     }
   ]
 }
